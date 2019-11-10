@@ -1,0 +1,8 @@
+[submodule "django"]
+	path = django
+	url = git@github.com:fwyit/tmpl-django.git
+	branch = fwy
+[submodule "pypi"]
+	path = pypi
+	url = git@github.com:fwyit/tmpl-pypi.git
+	branch = fwy
