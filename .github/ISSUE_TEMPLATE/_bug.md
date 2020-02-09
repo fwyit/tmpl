@@ -1,6 +1,6 @@
 ---
-name:  待提交的bug名称
-about: 简单描述当前Bug信息
+name:  提交Bug
+about: 按需提交已发现的Bug信息
 
 ---
 
