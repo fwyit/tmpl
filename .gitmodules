@@ -6,3 +6,6 @@
 	path = pypi
 	url = git@github.com:fwyit/tmpl-pypi.git
 	branch = fwy
+[submodule "scraypd"]
+	path = scrapy
+	url = git@github.com:fwyit/tmpl-scrapy.git
